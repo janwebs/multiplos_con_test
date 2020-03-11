@@ -1,6 +1,6 @@
 # multiplos con test
 
-En esencia es el mismo programa que **multiplos** pero se incorpora con **phpunit** a traves de **composer** para testear. por tal motivo se advierte que debe tener instalado composer en el sistema donde se realizarán las pruebas.
+En esencia es el mismo programa que **multiplos** pero se incorpora con **phpunit** a traves de **composer** para testear, por tal motivo, se advierte que debe tener instalado composer en el sistema donde se realizarán las pruebas.
 
 ## Intrucciones
 
