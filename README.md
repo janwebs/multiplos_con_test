@@ -1,6 +1,6 @@
 # multiplos con test
 
-en esencia es el mismo programa que multiplos pero se adicionan pruebas unitarias con phpunit a traves de composer
+En esencia es el mismo programa que **multiplos** pero se incorpora con phpunit a traves de composer para testear.
 
 ## Intrucciones
 
